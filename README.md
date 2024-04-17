@@ -1,0 +1,271 @@
+ <!-----META SECTION----->
+ <!DOCTYPE html>
+ <html>
+ <head>
+ <title>Student Portfolio Website Template</title>
+ <meta charset="utf-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+ <link rel="stylesheet" href="style.css">
+ </head>
+ <body><!-----MENU SECTION------>
+  <div class="main-panel">
+    <div class="container">
+      <div class="width-33 logo">Port <span class="span-col">folio</span>
+      </div>
+      <div class="width-66">
+        <nav>
+          <a href="#">
+            <span class="span-col">Home</span>
+          </a>
+          <a href="#about me">About me</a>
+          <a href="#Education">Education</a>
+          <a href="#Skills">Skills</a>
+          
+        </nav>
+      </div>
+    </div><!------MAIN BANNERR------>
+    <div class="container ">
+      <div class="width-50">
+        <div class="banner-section">
+          <span class="span-col">Welcome !!</span>
+          <h1>Sai <span class="span-col">Chandana</span>
+          </h1>
+          <h2>- I am btech 1st year student at KL University persuing my degree in Electronics and communications engineering(ECE).</h2>
+          <a href="#">
+            <i class="fa fa-facebook"></i>
+          </a>
+          <a href="#">
+            <i class="fa fa-twitter"></i>
+          </a>
+          <a href="https://t.me/Sai_Chandana05">
+            <i class="fa fa-linkedin"></i>
+          </a>
+          <a href="#">
+            <i class="fa fa-instagram"></i>
+          </a>
+          <a href="https://github.com/chitty4545">
+            <i class="fa fa-github"></i>
+          </a>
+        </div>
+      </div>
+      <div class="width-50">
+        <img src="2.png">
+      </div>
+    </div>
+    </div><!------ABOUT US SECTION------>
+    <div id="about me" class="main-section bg-lightgrey">
+      <div class="container">
+        <div class="width-50">
+          <img src="2.png" class="me">
+        </div>
+        <div class="width-50">
+          <div class="about-us">
+            <h2 class="heading-text">About Us</h2>
+            <h3>I am </h3>
+            <p>Hi, I am btech 1st year student at KL University persuing my degree in Electronics and communications engineering(ECE) in 2027.</p>
+            <div class="width-50 mt-20">
+              <table cellspacing="8" cellpadding="8">
+                <tr>
+                  <th>Name:</th>
+                  <td>Sai Chandana Bairoju</td>
+                </tr>
+                <tr>
+                  <th>Email:</th>
+                  <td> saichandanabairoju1@gmail.com</td>
+                </tr>
+                <tr>
+                  <th>Birthday:</th>
+                  <td> 05 June , 2005</td>
+                </tr>
+                <tr>
+                  <th>Study:</th>
+                  <td> KL University</td>
+                </tr>
+              </table>
+            </div>
+            <div class="width-50 mt-20">
+              <table cellspacing="8" cellpadding="8">
+                <tr>
+                  <th>Phone:</th>
+                  <td>8688961706</td>
+                </tr>
+                <tr>
+                  <th>City:</th>
+                  <td>Hyderabad , Telangana</td>
+                </tr>
+                </tr>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div><!------SKILL SECTION------>
+    <div id="Skills" class="main-section">
+      <div class="container">
+        <h2 class="heading-text">My Skills</h2>
+        <div class="width-50">
+          <div class="skill">
+            <b>HTML</b>
+            <span>95%</span>
+            <div>
+              <span style="width:95%"></span>
+            </div>
+          </div>
+          <div class="skill">
+            <b>CSS</b>
+            <span>60%</span>
+            <div>
+              <span style="width:91%"></span>
+            </div>
+          </div>
+          <div class="skill">
+            <b>JavaScript</b>
+            <span>25%</span>
+            <div>
+              <span style="width:25%"></span>
+            </div>
+          </div>
+          <div class="skill">
+            <b>C Language</b>
+            <span>80%</span>
+            <div>
+              <span style="width:80%"></span>
+            </div>
+          </div>
+        </div>
+        <div class="width-50">
+          <div class="width-50">
+            <div role="progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100" style="--value:65">React-65</div>
+          </div>
+          <div class="width-50">
+            <div role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" style="--value:85">HTML-95</div>
+          </div>
+          <div class="width-50">
+            <div role="progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100" style="--value:65">java-65</div>
+          </div>
+          <div class="width-50">
+            <div role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="--value:85">C-80</div>
+          </div>
+        </div>
+      </div>
+    </div><!------EXPERIENCE SECTION------>
+    <div id="Education" class="main-section bg-lightgrey">
+      <div class="container">
+        <div class="edu-exp">
+          <h2 class="heading-text">Education</h2>
+          <div class="experience-list">
+            <div class="experience-content">
+              <h2>KL University </h2>
+              <h3>2023-2027</h3>
+              <p>Bachelor in Electronics and communications Engineering</p>
+            </div>
+          </div>
+          <div class="experience-list">
+            <div class="experience-content">
+              <h2>Narayana Junior college</h2>
+              <h3>2021-2023</h3>
+              <p>MPC</p>
+            </div>
+          </div>
+          <div class="experience-list">
+            <div class="experience-content">
+              <h2> Nagarjuna High school</h2>
+              <h3>2021</h3>
+              <p>SSC</p>
+            </div>
+          </div>
+          <div class="experience-list">
+            <div class="experience-content">
+              <h2>THANK YOU </h2>
+             
+            </div>
+          </div>
+        </div>
+        <div class="edu-exp">
+          <h2 class="heading-text">Experience</h2>
+          <div class="experience-list">
+            <div class="experience-content">
+              <h2>Coders cave</h2>
+              <h3>2024-current</h3>
+              <p>Font End Developer</p>
+            </div>
+          </div>
+          <div class="experience-list">
+            <div class="experience-content">
+              <h2>Bharat Intern</h2>
+              <h3>2024-current</h3>
+              <p>Font End Developer</p>
+            </div>
+          </div>
+          <div class="experience-list">
+            <div class="experience-content">
+              <h2>Codechef</h2>
+              <h3>2024-current</h3>
+              <p>1star rating</p>
+            </div>
+          </div>
+          <div class="experience-list">
+            <div class="experience-content">
+              <h2>THANK YOU</h2>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-------------CONTACT US SECTION----------------------->
+    <div class="main-section contact bg-lightgrey">
+      <div class="container">
+        <h2 class="heading-text">Contact us</h2>
+        <div class="width-100">
+          <form>
+            <input type="text" placeholder="Full Name...">
+            <input type="text" placeholder="Full Email Id...">
+            <input type="text" placeholder="Full Mobile No...">
+            <textarea placeholder="Enter Address..."></textarea>
+            <button type="submit">Submit</button>
+          </form>
+        </div>
+        <div class="width-33">
+          <h3>
+            <i class="fa fa-map-marker"></i>
+          </h3>
+          <h4>Address</h4>
+          <p>5-24-88,NTR Nagar(B), Gajularamaram , Hyderabad , Telangana</p>
+        </div>
+        <div class="width-33">
+          <h3>
+            <i class="fa fa-phone"></i>
+          </h3>
+          <h4>Phone</h4>
+          <p>+91 99 26 661 418</p>
+        </div>
+        <div class="width-33">
+          <h3>
+            <i class="fa fa-envelope-o"></i>
+          </h3>
+          <h4>Email</h4>
+          <p>saichandanabairoju1@gmail.com</p>
+        </div>
+      </div>
+    </div><!------FOOTER SECTION------>
+    <div class="footer">
+      <div class="container">
+        <div class="footer-sect social-icon width-50">
+          <a href="#">
+            <i class="fa fa-facebook"></i>
+          </a>
+          <a href="#">
+            <i class="fa fa-twitter"></i>
+          </a>
+          <a href="https://t.me/Sai_Chandana05">
+            <i class="fa fa-linkedin"></i>
+          </a>
+          <a href="#">
+            <i class="fa fa-instagram"></i>
+          </a>
+        </div>
+        <div class="footer-sect mt-20 width-50">Thank you for visiting</div>
+      </div>
+    </div>
